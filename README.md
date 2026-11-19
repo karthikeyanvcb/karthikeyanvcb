@@ -1,51 +1,49 @@
 # Hi 👋, I'm Karthikeyan
 
-🚀 **Data Analyst | DeFi & Stablecoin Research | Smart Contract Security**
+🔐 **Cybersecurity Researcher @ Aston University | EU Horizon MSCA FORCE**
+**Cross-Chain DeFi Security · Zero-Knowledge Proofs · Temporal Graph AI · Smart Contracts**
 
-I work at the intersection of **data analytics, decentralized finance, and blockchain systems**, focusing on how value flows, fragments, and fails across on-chain ecosystems.
+I work on **privacy-preserving regulatory compliance for cryptocurrencies** — reconciling Anti-Money Laundering mandates (EU MiCA, TFR, AMLR, FATF Travel Rule) with data protection (GDPR).
 
 ---
 
 ## 🧠 About Me
 
-📊 Data Analyst with hands-on experience in **Python, Pandas, SQL, and visualization**
-🔐 Exploring **smart contract security**, exploit patterns, and protocol design
-🌐 Researching **stablecoins, DeFi liquidity, and cross-chain risk**
-📈 I turn raw, messy data into **clear insights and dashboards**
-🧪 Research-driven mindset — I focus on *why things break*, not just *how they work*
+- 🎓 Cybersecurity Researcher at **Aston University**, on the EU Horizon Europe Marie Skłodowska-Curie Actions **FORCE** project (*Fostering Optimal Regulatory Compliance for Cryptocurrencies*)
+- 🧩 I design and evaluate architectures that combine **zero-knowledge proofs, threshold cryptography and off-chain Temporal Graph Neural Networks (TGAT)** to detect illicit cross-chain money-laundering flows across blockchains and bridges, without exposing personal data on-chain
+- 🏅 **MSc Advanced Computer Science (Distinction)**, Cardiff Metropolitan University. Dissertation on Layer-2 rollup scalability and fee mechanics across Arbitrum, Optimism and zkSync; contributed to the Centre for Industry 4.0 and Blockchain Research (CI4.0BR)
+- 🏆 **ETHGlobal Hackathon award** for Solidity gas optimisation
+- ⛓️ Hands-on experience operating validator nodes across major L1/L2 networks
 
 ---
 
-## 🔍 Focus Areas
+## 🔍 Research Focus
 
-📉 Stablecoin dynamics & de-peg analysis  
-🔁 Cross-chain liquidity & bridge risks  
-🧠 On-chain analytics & economic modeling  
-🛡️ Smart contract security fundamentals  
-📊 Data storytelling & visualization  
+- 🌉 **Blockchain & Web3 Security:** cross-chain bridges, DeFi composability & exploit forensics, Layer-2 rollups
+- 🕶️ **Privacy-Enhancing Technologies:** ZK proofs (Groth16, STARKs), Privacy Pools, W3C DIDs / zkKYC, threshold secret sharing, Private Set Intersection
+- 🕸️ **AI & On-Chain Graph Forensics:** Temporal Graph Attention Networks, subgraph representation learning, address clustering & taint heuristics
+- ⚖️ **Regulatory Frameworks:** EU MiCA, Recast TFR, EU AMLR, FATF Recommendation 15 / Travel Rule, GDPR data minimisation & erasure
 
 ---
 
 ## 🛠️ Tools & Tech
 
-**Data & Analytics**
-Python, SQL  
-Pandas, NumPy, Matplotlib, Seaborn  
-
 **Blockchain**
-Solidity (security-oriented mindset)
-DeFi protocols & stablecoin mechanics
-On-chain data analysis  
+Solidity · Hardhat · Foundry · web3.js · Geth CLI · Arbitrum · Optimism · zkSync
 
-**Workflow**
-Git & GitHub  
-Jupyter Notebooks  
-Markdown  
+**Cryptography & Privacy**
+zk-SNARKs / zk-STARKs · Groth16 · Privacy Pools · DIDs / zkKYC · Threshold cryptography · PSI
+
+**AI & Data**
+Python · PyTorch · GNNs (TGAT) · Pandas · NumPy · SciPy · Anthropic Claude SDK automation
+
+**Other**
+React.js · Git & GitHub · Jupyter Notebooks · Markdown
 
 ---
 
-## 📌 Work & Research (Updating)
+## 🤝 Let's Connect
 
-📊 Exploratory data analysis projects  
-📉 Stablecoin & DeFi risk studies  
-🧪 Research-style notebooks with insights  
+Always open to connecting with fellow researchers, Web3 security engineers, financial intelligence practitioners and EU Horizon project collaborators.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthikeyan%20Velusamy-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikeyan-velusamy-245618244/)
